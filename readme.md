@@ -370,7 +370,7 @@ pip install -r requirements.txt
 ## 引用信息
 
 如果您使用了本模型，请引用：
-
+ 
 ```bibtex
 @misc{deepseek-r1,
   title={DeepSeek-R1: A Cognitive Fine-tuned Model for University Comparison},
@@ -378,7 +378,7 @@ pip install -r requirements.txt
   year={2024},
   publisher={GitHub},
   journal={GitHub repository},
-  howpublished={\url{https://github.com/your-repo}}
+  howpublished={\url{https://github.com/wangKeRann/AiTrain}}
 }
 ```
 ## 实验总结
