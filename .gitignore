@@ -1,0 +1,19 @@
+# 忽略模型文件
+deepseek-coder-1.3b-base/
+*.bin
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 环境文件
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/ 
